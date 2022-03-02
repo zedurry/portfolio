@@ -12,7 +12,7 @@ Playful and Colorful One-Page portfolio featuring Parallax effects and animation
 
 ## 🚀 Getting Started
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Zaki Portfolio with Gatsby">](https://https://zakidurry.com/)
+[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Zaki Portfolio with Gatsby">](https://zakidurry.com/)
 
 ### 1. **Projects.**
 
