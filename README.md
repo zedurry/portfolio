@@ -12,7 +12,7 @@ Playful and Colorful One-Page portfolio featuring Parallax effects and animation
 
 ## 🚀 Getting Started
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-portfolio-cara)
+[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Zaki Portfolio with Gatsby">](https://http://zakidurry.com/)
 
 ### 1. **Projects.**
 
